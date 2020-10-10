@@ -1,0 +1,102 @@
+.paragraph {
+  line-height: 28px;
+}
+
+.add-to-slack {
+	line-height: 28px;
+	text-align: center;
+	margin-top: 20px;
+}
+
+.testimonial-content .paragraph {
+	line-height: 24px;
+}
+
+#mc-embedded-subscribe-form {
+	width: 400px;
+}
+
+.join-test {
+	margin-top: 15px;
+}
+.join-test label {
+	margin-right: 10px;
+	margin-top: 3px;
+}
+.join-test select {
+	float: right;
+	padding: 5px;
+}
+
+.ctas-input {
+	width: 100%;
+}
+
+.hear-about {
+	margin-top: 20px;
+}
+
+.submit-row {
+	margin-top: 20px;
+	text-align: right;
+}
+
+.copyright {
+	margin-top: 20px;
+}
+.copyright a {
+	color: #fff;
+}
+
+.thanks {
+	margin-top: 200px;
+}
+.thanks.small {
+	margin-top: 150px;
+}
+.thanks h3 {
+	text-align: center;
+}
+
+.privacy {
+	margin: 100px 0 100px 0;
+}
+.privacy h3 {
+	text-align: center;
+}
+
+span.code {
+	font-family: Consolas,monaco,"Ubuntu Mono",courier,monospace!important;
+	color: #d72b3f;
+	background-color: #f7f7f9;
+	border: 1px solid #e1e1e8;
+	border-radius: 3px;
+	padding: 2px 0 1px 0;
+	font-size: 15px;
+}
+
+.footer form {
+	margin: 0 auto;
+}
+
+.testimonial {
+	min-height: auto !important;
+}
+
+.faq {
+	text-align: left;
+	width: 800px;
+	margin: 60px auto 0;
+}
+
+.faq .subheading {
+	text-align: center;
+}
+
+.github li {
+	margin-bottom: 0.25rem;
+}
+
+.github a {
+	color: #fff;
+}
